@@ -19,3 +19,7 @@ C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\bin\Debug\Sy
 C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\obj\Debug\Blamo.csprojResolveAssemblyReference.cache
 C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\obj\Debug\Blamo.dll
 C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\obj\Debug\Blamo.pdb
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\bin\Debug\Roslyn.Compilers.dll
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\bin\Debug\Roslyn.Compilers.xml
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\Blamo\Blamo\bin\Debug\Roslyn.Compilers.CSharp.xml
